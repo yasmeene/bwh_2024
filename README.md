@@ -1,8 +1,4 @@
 # bwh_2024
-Creating a README page for a project like the "Community Compass" website involves detailing the project's purpose, features, installation steps, usage, and how to contribute. Below is a template that outlines these elements for the "Community Compass" website, which aims to provide easy access to essential services for those in need.
-
----
-
 # Community Compass
 
 ## Overview
@@ -26,10 +22,10 @@ This section is for developers interested in contributing to the Community Compa
 git clone https://github.com/yourrepository/community-compass.git
 cd community-compass
 npm install
-npm start # don't forget to change this eventually
+npm start
 ```
 
-The platform will be running locally on `http://localhost:3000`. # and this
+The platform will be running locally on `http://localhost:3000`.
 
 ## Usage
 
