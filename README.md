@@ -12,7 +12,9 @@ Community Compass is a web platform designed to guide individuals in finding imm
 - **Family Planning and Clinics**: Information on family planning and access to feminine clinics.
 - **Community Support**: Option for users to add or suggest new resources, enhancing the database's comprehensiveness.
 
-## Demo
+## Project Description
+
+### Demo
 
 Below is a video demonstration of our project including our Figma design, our website, and possible improvements.
 
@@ -20,6 +22,11 @@ Below is a video demonstration of our project including our Figma design, our we
 
 {insert photos of webpage}
 
+### Design
+
+Our team used Figma to design our website and implement webpages that we hope to implement in the future. Below is a link to our design on Figma:
+
+{link}
 
 ## Usage
 
