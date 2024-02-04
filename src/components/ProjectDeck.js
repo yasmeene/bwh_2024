@@ -4,7 +4,14 @@ import React, { useState } from "react";
 const images = [
   require("./img/figma/phone1.png"),
   require("./img/figma/phone2.png"),
-  "url-to-your-third-image.jpg",
+  require("./img/figma/phone3.png"),
+  require("./img/figma/phone4.png"),
+  require("./img/figma/phone5.png"),
+  require("./img/figma/phone6.png"),
+  require("./img/figma/phone7.png"),
+  require("./img/figma/phone8.png"),
+  require("./img/figma/phone9.png"),
+  require("./img/figma/phone10.png"),
   // Add more image URLs as needed
 ];
 
