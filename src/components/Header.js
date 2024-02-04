@@ -1,7 +1,10 @@
+import './Main.css';
+import React from "react";
+
 function Header() {
   return (
     <header>
-      <video src="public/img/video.mp4" loop autoPlay muted></video>
+      <video src={require('./img/main_vid.mp4')} loop autoPlay muted></video>
       <h1>Community Compass</h1>
       <div className="row">
       </div>
