@@ -1,4 +1,5 @@
 import React from "react";
+
 function About() {
   return (
     <>
@@ -12,12 +13,13 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              At Community Compass, we believe in providing a beacon of hope
-              and support for those in need. Our mission is to connect
-              individuals and families with essential services such as food banks,
-              and mental health resources. Through partnerships with organizations 
-              like BetterHelp and local clinics, we aim to create a comprehensive 
-              network of support for every community member.
+              Welcome to Community Compass, where our core belief is in fostering resilience and providing support to those in need. Our journey is driven by two fundamental principles outlined in our mission and vision.
+            </p>
+            <p className="main-p">
+              Mission Statement: To empower individuals and families by providing accessible pathways to essential services and resources, fostering resilience, and building a supportive community network. At Community Compass, we are dedicated to navigating together towards a future where everyone has the support they need to thrive.
+            </p>
+            <p className="main-p">
+              Vision Statement: Envisioning a world where no one is left behind, Community Compass aims to be the beacon of hope and support for all. Our vision is to create an inclusive community where access to food, mental health support, and healthcare is a right, not a privilege. Through collaboration, innovation, and compassion, we strive to break down barriers and build a foundation for health, well-being, and opportunity for generations to come.
             </p>
           </div>
         </div>
@@ -25,4 +27,5 @@ function About() {
     </>
   );
 }
+
 export default About;
