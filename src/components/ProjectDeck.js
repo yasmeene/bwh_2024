@@ -1,28 +1,36 @@
 // ProjectDeck.js
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
 function ProjectDeck() {
-const slidesContainer = document.getElementById("slides-container");
-const slide = document.querySelector(".slide");
-const prevButton = document.getElementById("slide-arrow-prev");
-const nextButton = document.getElementById("slide-arrow-next");
+  const [currentSlide, setCurrentSlide] = useState(0);
+  const totalSlides = 4; // Assuming you have 4 slides
+
+  const nextSlide = () => {
+    setCurrentSlide((prevSlide) => (prevSlide + 1) % totalSlides);
+  };
+
+  const prevSlide = () => {
+    setCurrentSlide((prevSlide) => (prevSlide + totalSlides - 1) % totalSlides);
+  };
 
   return (
-    <section class="slider-wrapper" className="text-center">
-        <button class="slide-arrow" id="slide-arrow-prev">
+    <section className="slider-wrapper text-center">
+        <button className="slide-arrow" id="slide-arrow-prev" onClick={prevSlide}>
             &#8249;
         </button>
-        <button class="slide-arrow" id="slide-arrow-next">
+        <div className="slides-container">
+          {[...Array(totalSlides)].map((_, index) => (
+            <div key={index} className={`slide ${index === currentSlide ? "active" : ""}`}>
+              {/* Insert your images here. Example: */}
+              <img src={`path-to-your-image-${index + 1}.jpg`} alt={`Slide ${index + 1}`} />
+            </div>
+          ))}
+        </div>
+        <button className="slide-arrow" id="slide-arrow-next" onClick={nextSlide}>
             &#8250;
         </button>
-        <ul class="slides-container" id="slides-container">
-            <li class="slide"></li>
-            <li class="slide"></li>
-            <li class="slide"></li>
-            <li class="slide"></li>
-        </ul>
     </section>
-);
+  );
 }
 
 export default ProjectDeck;
