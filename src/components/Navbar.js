@@ -96,18 +96,6 @@ function Navbar() {
             <li>
               <Link
                 onClick={openBar}
-                to="proj-scroll"
-                spy={true}
-                smooth={true}
-                duration={1000}
-                activeClass="active"
-              >
-                Project Deck
-              </Link>
-            </li>
-            <li>
-              <Link
-                onClick={openBar}
                 to="contact"
                 spy={true}
                 smooth={true}
