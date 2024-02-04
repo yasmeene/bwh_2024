@@ -577,3 +577,21 @@ ul li a {
 .mb-1 {
   margin-bottom: 1rem!important;
 }
+
+/* Project Deck */
+.project-deck {
+  padding: 3rem 0;
+  background-color: #fafafa;
+  width: 100%;
+  text-align: center;
+}
+
+.project-deck-title {
+  font-size: 48px;
+  color: #01bf71;
+}
+
+.project-deck-description {
+  font-size: 22px;
+  font-weight: 500;
+}
