@@ -29,3 +29,25 @@ Our team used Figma to design our website and implement webpages that we hope to
 ## Usage
 
 For users seeking resources, simply visit the Community Compass website and enter your location. You can search for food banks, mental health resources, and clinics. Select the type of service you're looking for, and the site will display relevant resources, including distance and directions.
+
+To run the website from your local device, ensure you have [node](https://nodejs.org/en) or [yarn](https://yarnpkg.com/) installed on your device, then run the following
+
+#### For node
+```
+npm install
+```
+#### For yarn
+```
+yarn install
+```
+then run the following
+
+#### For node
+```
+npm start
+```
+#### For yarn
+```
+yarn start
+```
+
