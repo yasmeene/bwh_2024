@@ -6,11 +6,9 @@ Community Compass is a web platform designed to guide individuals in finding imm
 
 ## Features
 
-- **Shelter Locator**: Find nearby shelters suitable for women, families, and LGBTQ+ individuals.
-- **Food Bank Finder**: Access locations and hours of food banks.
+- **Food Services**: Access locations and hours of food banks.
 - **Mental Health Resources**: Links and contact information for mental health support, including a partnership with BetterHelp for professional counselling services.
-- **Family Planning and Clinics**: Information on family planning and access to feminine clinics.
-- **Community Support**: Option for users to add or suggest new resources, enhancing the database's comprehensiveness.
+- **Health Services**: Information on family planning and access to clinics.
 
 ## Project Description
 
