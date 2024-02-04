@@ -1,4 +1,3 @@
-@import
 body {
   overflow: auto;
   margin: 0;
@@ -642,3 +641,15 @@ ul li a {
 .contact-option p {
   color: #666666; 
 }
+
+.carousel-dot {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  cursor: pointer;
+}
+
+.carousel-dot.active {
+  background-color: white;
+}
+
