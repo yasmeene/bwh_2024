@@ -1,4 +1,3 @@
-import './Main.css';
 import React from "react";
 
 function Header() {
