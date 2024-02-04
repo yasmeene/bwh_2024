@@ -12,7 +12,12 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Hello
+              At Community Compass, we believe in providing a beacon of hope
+              and support for those in need. Our mission is to connect
+              individuals and families with essential services such as food banks,
+              and mental health resources. Through partnerships with organizations 
+              like BetterHelp and local clinics, we aim to create a comprehensive 
+              network of support for every community member.
             </p>
           </div>
         </div>

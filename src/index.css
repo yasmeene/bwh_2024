@@ -65,7 +65,7 @@ code {
   color:white;
   font-weight: 500;
   z-index: 1;
-  background-color: #01bf71;
+  background-color: #b497d6;
   padding:  10px 50px;
   margin: 0 0.5rem;
 }
@@ -209,7 +209,7 @@ header h1 {
 /* main */
 .main-title {
   font-size: 48px;
-  color: #01bf71;
+  color: #b497d6;
 }
 .main-p {
   font-size: 22px;
@@ -217,7 +217,7 @@ header h1 {
 }
 main {
   padding: 3rem 0;
-  background-color: #fafafa;
+  background-color: #05204a;
   width: 100%;
 }
 /* footer */
@@ -227,7 +227,7 @@ main {
 .footer-top {
   margin: 0;
   padding: 0.1rem 0;
-  background-color: #01bf71;
+  background-color: #b497d6;
 }
 .footer-top p {
   font-size: 18px;
@@ -292,7 +292,7 @@ footer ul li a {
 }
 .gotop {
   transition: all 0.2s;
-  background-color: #01bf71;
+  background-color: #b497d6;
   position: fixed;
   border-radius: 25px;
   padding: 1rem;
@@ -309,7 +309,7 @@ footer ul li a {
 }
 /* Services */
 .card-title {
-  color: #01bf71;
+  color: #b497d6;
   font-size: 24px;
 }
 .p-3 {
@@ -378,7 +378,7 @@ ul li a {
   width: 100%;
   font-weight: 500;
   z-index: 1;
-  background-color: #01bf71;
+  background-color: #b497d6;
   padding: 10px 50px;
 
   transition: background-color 0.2s;
