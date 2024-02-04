@@ -214,6 +214,7 @@ header h1 {
 .main-p {
   font-size: 22px;
   font-weight: 500;
+  color: white
 }
 main {
   padding: 3rem 0;
@@ -576,4 +577,52 @@ ul li a {
 }
 .mb-1 {
   margin-bottom: 1rem!important;
+}
+
+.contact-container {
+  width: 100%;
+  padding: 2rem;
+  background-color: #f5f5f5; /* or any other preferred color */
+  text-align: center;
+}
+
+.contact-title {
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+}
+
+.contact-options {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.contact-option {
+  width: 30%;
+  padding: 1rem;
+  background-color: #ffffff; /* Background color for the option */
+  border-radius: 10px; /* Optional: to round the corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: to add shadow */
+}
+
+.icon-wrapper {
+  /* Style as needed, insert the icons here */
+}
+
+.contact-button {
+  background-color: #b497d6; /* Button color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px; /* Optional: to round the button corners */
+  margin-top: 1rem;
+}
+
+.contact-option h3 {
+  color: #333333; /* Title color for each option */
+}
+
+.contact-option p {
+  color: #666666; /* Paragraph color */
 }
