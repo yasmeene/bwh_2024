@@ -7,7 +7,7 @@ function About() {
       <div className="container about">
         <div className="row">
           <div className="col-md-6 text-center">
-            <img alt="about" src={require('./img/card1.png')} className="img-fluid" />
+            <img alt="about" src={require('./img/about.png')} className="img-fluid" />
           </div>
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
