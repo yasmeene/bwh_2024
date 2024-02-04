@@ -16,15 +16,12 @@ Community Compass is a web platform designed to guide individuals in finding imm
 
 Below is a video demonstration of our project including our Figma design, our website, and possible improvements.
 
-{insert link}
+<img width="1690" alt="Screenshot 2024-02-04 at 3 10 26 AM" src="https://github.com/yasmeene/bwh_2024/assets/82289320/b2a8019d-eea2-419f-8981-9604720293ec">
 
-{insert photos of webpage}
 
 ### Design
 
-Our team used Figma to design our website and implement webpages that we hope to implement in the future. Below is a link to our design on Figma:
-
-{link}
+Our team used Figma to design our website and implement webpages that we hope to implement in the future. Press [here](https://www.figma.com/proto/F4eDebQzxRb6i6IrYBozRR/Community-Compass?type=design&node-id=27-127&t=4ZUBqKOfcpJnZlQw-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=27%3A127&mode=design) to view the prototype.
 
 ## Usage
 
