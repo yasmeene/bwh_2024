@@ -18,6 +18,8 @@ Below is a video demonstration of our project including our Figma design, our we
 
 <img width="1690" alt="Screenshot 2024-02-04 at 3 10 26 AM" src="https://github.com/yasmeene/bwh_2024/assets/82289320/b2a8019d-eea2-419f-8981-9604720293ec">
 
+_For a video demo click [here](https://www.youtube.com/watch?v=T3wuSU8n8lg&t=113s)_
+
 
 ### Design
 
